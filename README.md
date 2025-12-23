@@ -5,7 +5,7 @@
 
 > A modern, responsive personal portfolio website featuring glassmorphism, floating animations, and a clean dark aesthetic.
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eb5a4272-25da-4520-af46-7c583348cd18" />
+![Portfolio Preview](assets/preview.png)
 
 ## 🚀 About The Project
 
